@@ -1,7 +1,6 @@
 <!-- HEADER PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/SamuelCano03/Inteligencia-Artificial-CC62.git">
-    <img src="img/upcLogo.png" alt="Logo UPC" width="80" height="80">
+    <img src="upcLogo.png" alt="Logo UPC" width="80" height="80">
   </a>
 
   <h3 align="center">Machine-Learning-CC72</h3>
